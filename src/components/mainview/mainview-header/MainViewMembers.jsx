@@ -116,7 +116,7 @@ export default function MainViewMembers() {
                         {memberImg ? (
                           <img
                             src={memberImg}
-                            alt="Profile Picture"
+                            alt="ProfilePicture"
                             className="h-full w-full rounded-full object-cover"
                           />
                         ) : (

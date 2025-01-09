@@ -136,7 +136,7 @@ export default function SidebarIcons() {
         </div>
       </div>
       <div className="cursor-pointer text-4xl text-[#a4a6a8] dark:text-drkcol">
-        <a href="#" className="flex w-full cursor-pointer justify-center">
+        <a href="/" className="flex w-full cursor-pointer justify-center">
           <PiSignOut />
         </a>
       </div>
