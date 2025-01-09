@@ -24,7 +24,7 @@ export default function ListViewRow({ id, status, title, category, tasks, member
         <td className="">
         </td>
         <td
-          scope="row"
+          // scope="row"
           className="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white"
         >
           {status}
