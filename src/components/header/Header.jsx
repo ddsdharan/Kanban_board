@@ -149,7 +149,7 @@ export default function Header() {
       <div className="flex items-center justify-between gap-4">
         <div className="flex-shrink-0 lg:hidden">
           <Link to={`/`}>
-            <img src={logo} alt="Kanban Logo" className="h-auto w-[45px]" />
+            <img src={logo} alt="KanbanLogo" className="h-auto w-[45px]" />
           </Link>
         </div>
         <div className="relative flex h-[40px] w-[100%] items-center gap-2 rounded-md bg-[#f7f7f7] px-2 py-3 lg:w-[60%] dark:bg-drkbg2 dark:text-drkcol">

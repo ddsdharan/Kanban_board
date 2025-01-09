@@ -18,7 +18,7 @@ export default function Chat() {
             >
               <img
                 src={board.img}
-                alt={`${board.name} board image`}
+                alt={`${board.name} boardimage`}
                 className="h-full w-full rounded-md object-cover"
               />
             </div>
